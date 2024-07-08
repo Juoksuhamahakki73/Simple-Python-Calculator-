@@ -1,3 +1,8 @@
-# Creating Great README Files for Your Python Projects
+# About Program
+This code is just for learning purposes in order to be more familiar with Python and GitHub.
 
-This folder provides the code examples for the Real Python tutorial [Creating Great README Files for Your Python Projects](https://realpython.com/readme-python-project/).
+## The Code
+the code will be a simple Python Calculator
+
+### Author 
+program made by Juoksuhamahakki73 
